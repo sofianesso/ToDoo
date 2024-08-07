@@ -1,0 +1,45 @@
+# ASP.NET Configuration
+appsettings.json
+appsettings.*.json
+Properties/launchSettings.json
+
+# .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Systemfiler
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# npm och Node.js
+node_modules/
+.npm
+.yarn/
+.yarnrc
+
+# Output of 'npm pack'
+*.tgz
+
+# TypeScript
+typings/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
